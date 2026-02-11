@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment</title>
+     <title>Assignment</title>
 </head>
 <body>
     <h1>Resume</h1>
-    <img src="passport size photo.jpg" alt="Lokesh.V.Gonnade" width="100px">
-    <h3>Lokesh.V.Gonnade</h3>
+    <img src="passport size photo.jpg" alt="Rahul.patil" width="100px">
+    <h3>Rahul Pravin Patil </h3>
     <p style="color: blueviolet; font-size: 20px;">Interest</p>
     <ul>
         <li>Stock Market</li>
@@ -53,7 +53,6 @@
             <td>2021</td>
             <td><a href="http://www.gpvs.cteguj.in/" target="_blank"> GPValsad</a></td>
             <td>73%</td>
-
         </tr>
     </table>
     <p style="color: blueviolet; font-size: 20px;">Contact</p>
@@ -63,9 +62,10 @@
             <th>Email</th>
         </tr>
         <tr>
-            <td>8734996744</td>
-            <td>lokeshgonnade214@gmail.com</td>
+            <td>7990478441</td>
+            <td>rahulpatil8441@gmail.com</td>
         </tr>
     </table>
+    
 </body>
 </html>
